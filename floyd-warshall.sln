@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "floyd-warshall-tests", "floyd-warshall-tests\floyd-warshall-tests.csproj", "{662DD338-E077-4885-8DA2-52AAF7054589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "floyd-warshall", "floyd-warshall\floyd-warshall.csproj", "{39B580B9-1138-4EDD-BDCA-2C0DDB80ED8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662DD338-E077-4885-8DA2-52AAF7054589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662DD338-E077-4885-8DA2-52AAF7054589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662DD338-E077-4885-8DA2-52AAF7054589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662DD338-E077-4885-8DA2-52AAF7054589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B580B9-1138-4EDD-BDCA-2C0DDB80ED8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B580B9-1138-4EDD-BDCA-2C0DDB80ED8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B580B9-1138-4EDD-BDCA-2C0DDB80ED8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B580B9-1138-4EDD-BDCA-2C0DDB80ED8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C941A91-9CF0-49FE-83AE-1F9F968FC63F}
+	EndGlobalSection
+EndGlobal
